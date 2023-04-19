@@ -4,6 +4,5 @@
 #
 
 CODEOWNERS  @SelimEminoglu61
-.      @SelimEminoglu61 @hasankurayy
-
+#        @SelimEminoglu61 @hasankurayy
 *.md    @SelimEminoglu61  @hasankurayy
