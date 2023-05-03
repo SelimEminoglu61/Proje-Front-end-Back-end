@@ -20,3 +20,8 @@ Sosyal Medya Projesi İçin Oluşturulmuş Github Reposu
 3- Proje İçin Görev Dağılımları
 
 4- Proje İçin Yapılabilecek Geliştirmeler
+
+---
+### 1-Proje İçin Kullanılabilecek Teknolojiler
+- [x] Öncelikle sayfaların genel yapısının ortaya çıkması için elle wireframe taslakları oluşturuldu.
+- [] Sayfa ve proje genelinde isim ve logo için karar verilme aşamasına gelindi.
