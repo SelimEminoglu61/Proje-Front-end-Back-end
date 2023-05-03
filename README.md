@@ -23,5 +23,5 @@ Sosyal Medya Projesi İçin Oluşturulmuş Github Reposu
 
 ---
 ### 1-Proje İçin Kullanılabilecek Teknolojiler
--[x] Öncelikle sayfaların genel yapısının ortaya çıkması için elle wireframe taslakları oluşturuldu.
--[] Sayfa ve proje genelinde isim ve logo için karar verilme aşamasına gelindi.
+- [x] Öncelikle sayfaların genel yapısının ortaya çıkması için elle wireframe taslakları oluşturuldu.
+- [] Sayfa ve proje genelinde isim ve logo için karar verilme aşamasına gelindi.
